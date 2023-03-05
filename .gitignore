@@ -3,9 +3,6 @@
 # dependencies
 /node_modules
 /.pnp
-.pnp.js
-.package-lock.json
-.package.json
 
 # testing
 /coverage
@@ -23,5 +20,11 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-README.md 
+/README.md 
+/pnp.js
+/package-lock.json
+/package.json
 assets/
+png*
+jpg*
+/cv.pdf
