@@ -22,9 +22,7 @@ yarn-debug.log*
 yarn-error.log*
 /README.md 
 /pnp.js
-/package-lock.json
 /package.json
 assets/
 png*
 jpg*
-/cv.pdf
