@@ -44,7 +44,7 @@ const Contact = () => {
             rows="7"
             placeholder="Your Message"
           ></textarea>
-          <button type="submit" className="btn btn-primary cta">
+          <button type="submit" className="btn btn-primary">
             Send a Message
           </button>
         </form>
