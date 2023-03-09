@@ -66,4 +66,8 @@ textarea {
   .container.contact__container {
     width: var(--container-width-sm);
   }
+  .btn{
+    position: relative;
+    left: 7.5rem;
+  }
 }

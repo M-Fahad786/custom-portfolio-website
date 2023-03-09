@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import Image from "../../assets/me-about.jpg";
+import Image from "../../assets/profile2.png";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
@@ -31,7 +31,7 @@ const About = () => {
               <small>Satisfied Worldwide</small>
             </article>
 
-            <article className="about__article__card">
+            <article className="about__article__card card3">
               <VscFolderLibrary className="icon" />
               <h5>Projects</h5>
               <small>100+ Completed</small>
