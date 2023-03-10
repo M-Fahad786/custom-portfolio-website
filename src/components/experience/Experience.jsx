@@ -87,8 +87,8 @@ const Experience = () => {
 
         {/* END OF FRONTEND BLOCK  */}
 
-        <div className="experience__frontend">
-          <h3>Frontend Development</h3>
+        <div className="experience__backend">
+          <h3>Backend Development</h3>
           <div className="experience__content">
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
